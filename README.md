@@ -5,7 +5,7 @@
 A simple currency converter helps convert different currency formats. 
 - `add` to add different currency formats to the main list 
 - `x` to remove each currency from the list in main page
-- exchange rates API [https://exchangeratesapi.io/]
+- exchange rates API (https://exchangeratesapi.io/)
 
 
 ### Technologies
